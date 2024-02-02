@@ -1,8 +1,9 @@
 # Pick-and-Place-using-LEGO-Robotic-Arm
 Pick and Place using LEGO Mindstorms EV3 Robotic Arm
+
 ![image](https://github.com/haris-mujeeb/Pick-and-Place-using-LEGO-Robotic-Arm/assets/57053470/121bcf12-1677-4933-8641-552847b983e2)
 
-Video: https://www.youtube.com/watch?v=gsdkaBHAROk
+**Demo Video**: https://www.youtube.com/watch?v=gsdkaBHAROk
 
 ![image](https://github.com/haris-mujeeb/Pick-and-Place-using-LEGO-Robotic-Arm/assets/57053470/42f4b443-817b-40ae-8994-c3ea02f88c8f)
 
